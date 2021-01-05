@@ -1,5 +1,5 @@
 {
-  "name": "jsdecena/cms",
+  "name": "kang-mas/cms",
   "description": "A CMS powered by laravel",
   "autoload": {
     "psr-4": {
